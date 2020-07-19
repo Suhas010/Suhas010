@@ -1,17 +1,14 @@
 ### Hello World, I'm Suhas More 👋
-![suhas](https://suhas010.com/static/suhas-more-555bf5e4e88631fab709ecba8f320b4a.jpg)
 
-<!--
-**Suhas010/Suhas010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### My everyday Associates
+![CSS](https://raw.githubusercontent.com/tanisha03/tanisha03/master/icons/css.png) ![JavaScript](https://raw.githubusercontent.com/tanisha03/tanisha03/master/icons/js.png) ![React](https://raw.githubusercontent.com/tanisha03/tanisha03/master/icons/react.png) ![Vue](https://raw.githubusercontent.com/tanisha03/tanisha03/master/icons/vue.png)
+ ![Figma](https://raw.githubusercontent.com/tanisha03/tanisha03/master/icons/figma.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### Find me at
+<a href="https://twitter.com/suhas010"><img src="https://raw.githubusercontent.com/tanisha03/tanisha03/master/icons/twitter.png" alt="twitter handle"/></a>
+<a href="https://medium.com/@suhas010"><img src="https://raw.githubusercontent.com/tanisha03/tanisha03/master/icons/medium.png" alt="medium handle"/></a>
+<a href="https://codepen.io/suhas010"><img src="https://raw.githubusercontent.com/tanisha03/tanisha03/master/icons/codepen.png" alt="codepen handle"/></a>
+<a href="https://suhas010.com/"><img src="https://raw.githubusercontent.com/tanisha03/tanisha03/master/icons/a11y.png" alt="accessibility blog"/></a>
