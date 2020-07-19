@@ -1,9 +1,10 @@
 ### Hello World, I'm Suhas More 👋
+#### Im Front-End developer since last 3+ years exclusively working on ReactJS and I love JavaScript so much.
 
 
 ### My everyday Associates
-![CSS](https://raw.githubusercontent.com/tanisha03/tanisha03/master/icons/css.png) ![JavaScript](https://raw.githubusercontent.com/tanisha03/tanisha03/master/icons/js.png) ![React](https://raw.githubusercontent.com/tanisha03/tanisha03/master/icons/react.png) ![Vue](https://raw.githubusercontent.com/tanisha03/tanisha03/master/icons/vue.png)
- ![Figma](https://raw.githubusercontent.com/tanisha03/tanisha03/master/icons/figma.png)
+![CSS](https://raw.githubusercontent.com/tanisha03/tanisha03/master/icons/css.png) ![JavaScript](https://raw.githubusercontent.com/tanisha03/tanisha03/master/icons/js.png) ![React](https://raw.githubusercontent.com/tanisha03/tanisha03/master/icons/react.png) ![npm](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/220px-Npm-logo.svg.png)
+ ![Node](https://nodejs.org/static/images/logo.svg)
 
 
 
