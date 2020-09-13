@@ -12,7 +12,7 @@
 - 📝 I regulary write articles on [https://medium.com/@suhas010](https://medium.com/@suhas010)
 
 - 📫 How to reach me **dsuhas4u@gmail.com**
-
+<p>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
