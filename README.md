@@ -11,6 +11,9 @@
 
 - 📝 I regulary write articles on [https://medium.com/@suhas010](https://medium.com/@suhas010)
 
+- 🎯 Followings are some weekend projects that I am proud of
+    - [EMI Calcualator](https://emi-calculator-suhas010.netlify.app/)
+
 - 📫 How to reach me **dsuhas4u@gmail.com**
 <br/>
 
