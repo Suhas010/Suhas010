@@ -1,13 +1,13 @@
 <h1 align="center">Hello World 👋, I'm Suhas More</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate JavaScript, ReactJS Developer From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhas010" alt="suhas010" /> </p>
 
 - 🔭 I’m currently working on **ReactJS, JavaScript and Python**
 
-- 🌱 I’m currently learning **FastAPI and Python3**
+- 🌱 I’m currently learning **NodeJS and TypeScript**
 
-- 👯 I’m looking to collaborate on **JavaScript and React**
+- 👯 I’m looking to collaborate on **JavaScript**
 
 - 📝 I regulary write articles on [https://medium.com/@suhas010](https://medium.com/@suhas010)
 
