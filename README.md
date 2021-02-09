@@ -13,6 +13,7 @@
 
 - 🎯 Followings are some weekend projects that I am proud of
     - [EMI Calcualator](https://emi-calculator-suhas010.netlify.app/)
+    - [Digi Mall (E-Commerce Site)](https://digi-mall.netlify.app/)
 
 - 📫 How to reach me **dsuhas4u@gmail.com**
 <br/>
