@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhas010" alt="suhas010" /> </p>
 
-- 🔭 I’m currently working on **ReactJS, JavaScript and Python**
+- 🔭 Currently working on **ReactJS, JavaScript**
 
-- 🌱 I’m currently learning **NodeJS and TypeScript**
+- 🌱 And spending my weekends to Learn **NodeJS and TypeScript**
 
-- 👯 I’m looking to collaborate on **JavaScript**
+- 👯 I’m looking to collaborate on **React**, **TypeScript** and **JavaScript**
 
 - 📝 I regulary write articles on [https://medium.com/@suhas010](https://medium.com/@suhas010)
 
@@ -19,7 +19,7 @@
 <br/>
 
 <p>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/tree/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
