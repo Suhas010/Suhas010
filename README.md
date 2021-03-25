@@ -5,7 +5,7 @@
 
 - 🔭 Currently working on **ReactJS, JavaScript**
 
-- 🌱 And spending my weekends to Learn **NodeJS and TypeScript**
+- 🌱 And spending my weekends to Learn **NodeJS** and **TypeScript**
 
 - 👯 I’m looking to collaborate on **React**, **TypeScript** and **JavaScript**
 
