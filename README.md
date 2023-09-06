@@ -18,27 +18,21 @@
     - Enabled Gpay, PhonePe, Paytm and BHIM psp support on Autopay standad checkout
     - Worked on MandateHQ 
 
-- 📫 How to reach me **dsuhas4u@gmail.com**
-<br/>
+### Connect with me :-
+<a href="https://www.linkedin.com/in/suhas-more">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://twitter.com/suhas010">
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+</a>
 
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-<img src="https://i.ibb.co/Yj6p14L/jest.png" alt="jest" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/>
-<img src="https://i.ibb.co/0MCw42Q/mocha.png" alt="mocha" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-</p>
+<!---
+![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+--->
+[![GitHub Streak](https://streak-stats.demolab.com?user=suhas010&theme=vue-dark)](https://git.io/streak-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suhas010&show_icons=true" alt="suhas010" /></p>
+[![Suhas Mores's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhas010)](https://github.com/suhas010/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhas010&theme=tokyonight)
+
 
 <p align="center">
 <a href="https://codepen.io/suhas010" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="suhas010" height="30" width="30" /></a>
